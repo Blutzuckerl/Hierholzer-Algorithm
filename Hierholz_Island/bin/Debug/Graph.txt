@@ -1,6 +1,0 @@
-Panel Information
-=================
-Breite: 664px
-Höhe: 509px
-Anzahl der Controls: 0
-Sichtbar: True
