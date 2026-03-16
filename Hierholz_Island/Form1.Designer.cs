@@ -66,7 +66,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(548, 38);
             this.label1.TabIndex = 1;
-            this.label1.Text = "DER ALGORITHMUS VON HOLZI";
+            this.label1.Text = "DER ALGORITHMUS VON HIERHOLZ";
             // 
             // button3
             // 
